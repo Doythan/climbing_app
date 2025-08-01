@@ -65,6 +65,76 @@
 
 ✏️ 캘린더 + 통계를 통한 기록 관리
 
+## 🔧 기술 스택
+### 백엔드
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
+
+### 프론트엔드
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white">
+
+### 인프라
+<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+
+### 커뮤니케이션
+ <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+
+## 👥 팀원 소개
+<center>
+<table >
+    <thead>
+        <tr>
+            <th align="center"><span>도경록(팀장) - FE</span></th>
+            <th align="center"><span>김한민 - FE</span></th>
+            <th align="center"><span>도경원 - FE</span></th>
+        </tr>
+    </thead>
+    <tbody>
+        <td align="center">
+            <a href="https://github.com/seowooNote">
+                <img src="./exec/readme_assets/도경록.png" width="150" height="150" />
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/Han3707">
+                <img src="./exec/readme_assets/김한민.png" width="150" height="150" />
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/Dohgyoungwon">
+                <img src="./exec/readme_assets/도경원.png" width="150" height="150" />
+            </a>
+        </td>
+    </tbody>
+</table>
+<table >
+    <thead>
+        <tr>
+            <th align="center"><span>송동현 - BE</span></th>
+            <th align="center"><span>이지연 - BE</span></th>
+            <th align="center"><span>정영한 - BE</span></th>
+        </tr>
+    </thead>
+    <tbody>
+        <td align="center">
+            <a href="https://github.com/dh0728">
+                <img src="./exec/readme_assets/송동현.png" width="150" height="150" />
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/zeeeyeon">
+                <img src="./exec/readme_assets/이지연.png" width="150" height="150" />
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/ynghan">
+                <img src="./exec/readme_assets/정영한.png" width="150" height="150" />
+            </a>
+        </td>
+    </tbody>
+</table>
+</center>
+<span>해당 프로필 사진을 클릭하면 해당 팀원의 깃허브로 이동합니다.</span>
+
 ## 📁 프로젝트 산출물 
 <details>
   <summary>
